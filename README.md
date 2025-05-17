@@ -1,7 +1,10 @@
-# master 
+# branch structure
+
+## master 
 almost empty, titles, keywords
 
-# notes 
+## notes 
 extended notes, can be used as flashcards
 
-# extended material
+## extended material
+referenced only or interesting
