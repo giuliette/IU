@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Node modules (if you're using JS projects)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
+
+# Secrets
+.env
+
+# Your misc or temp files
+misc/
