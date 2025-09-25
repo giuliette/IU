@@ -10,9 +10,17 @@ __pycache__/
 
 # VSCode settings (optional)
 .vscode/
+*.code-workspace
 
 # Secrets
 .env
 
 # Your misc or temp files
 misc/
+
+# System files
+Thumbs.db
+desktop.ini
+
+*.ttf
+*.otf
