@@ -1,10 +1,8 @@
 # WATis
-
 1. Wikipedia 
 2. https://docs.github.com/en/get-started/start-your-journey/about-github-and-git
 
 # BASICS
-
 - repo: a tracked folder
 - commit: a saved version (with a message)
 - push: sending changes 
@@ -18,7 +16,6 @@
 .gitignore
 README.md
 actual
-
 
 # DOCS, REFS
 https://docs.github.com/en/get-started/using-git/about-git
@@ -62,4 +59,3 @@ git push -u origin new-feature
 git log
 git stash
 git diff
-
