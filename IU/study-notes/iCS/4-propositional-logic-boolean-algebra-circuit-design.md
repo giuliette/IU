@@ -33,7 +33,8 @@
 **Quick Sort**: Divide and conquer with pivot 
 (O(n log n) average).
 **BogoBogo Sort** 
-
+// visualization> https://www.youtube.com/watch?v=kPRA0W1kECg
+    
 ## QUALITY OF ALGORITHMS
 **Big O Notation**: Describes the upper bound of time/space complexity (e.g., O(n), O(log n)).
 in order (ordo in latin)
